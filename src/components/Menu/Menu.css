@@ -1,0 +1,59 @@
+/* Ajustes para el contenedor principal del menú */
+.menu-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  padding: 5px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%; /* Ocupar todo el ancho de la pantalla */
+  z-index: 1000; /* Asegurarse de que esté por encima del contenido */
+}
+
+/* Ajustes para el contenedor interno del menú */
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+}
+
+/* Ajustes para el logo */
+.menu-logo img {
+  max-height: 40px;
+  margin-right: 15px;
+}
+
+/* Ajustes para el ícono de hamburguesa */
+svg[data-icon="bars"] {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  color: aliceblue;
+}
+
+/* Ajustes para el enlace del carrito */
+.verCarrito {
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+/* Media Query para diseño responsivo */
+@media (max-width: 768px) {
+  .menu {
+      flex-direction: column; /* Cambiar a columna para diseño vertical en dispositivos pequeños */
+      align-items: flex-start; /* Alinear elementos a la izquierda en diseño vertical */
+  }
+
+  .verCarrito {
+      font-size: 24px; /* Ajustar tamaño del carrito en dispositivos pequeños */
+      margin-top: 10px; /* Añadir espacio superior en diseño vertical */
+      margin-left: 10px; /* Mantener margen izquierdo en diseño vertical */
+  }
+}

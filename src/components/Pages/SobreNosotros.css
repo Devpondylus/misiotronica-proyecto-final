@@ -1,0 +1,33 @@
+/* Estilos generales */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Fondo de pantalla completo */
+  body {
+    background-color: #1f1f1f; /* Gris oscuro */
+    font-family: 'Arial', sans-serif;
+    color: white;
+  }
+  
+  /* Contenedor principal */
+  div {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Estilos de encabezados */
+  h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos de párrafos */
+  p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 1.5;
+  }  

@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cable LED RGB",
+        "precio": 4500,
+        "img": "https://images.pexels.com/photos/10196786/pexels-photo-10196786.jpeg",
+        "cantidad": 1   
+    },
+
+    {
+        "id": 2,
+        "nombre": "Lámparas Para Piso De Diseño",
+        "precio": 3500,
+        "img": "https://images.pexels.com/photos/6986572/pexels-photo-6986572.jpeg",
+        "cantidad": 1
+    },
+
+    {
+        "id": 3,
+        "nombre": "Cable Ethernet Azul",
+        "precio": 1500,
+        "img": "https://images.pexels.com/photos/415043/pexels-photo-415043.jpeg",
+        "cantidad": 1
+    },
+
+    {
+        "id": 4,
+        "nombre": "Sensor De Movimiento",
+        "precio": 14000,
+        "img": "https://images.pexels.com/photos/9028867/pexels-photo-9028867.jpeg",
+        "cantidad": 1
+    },
+
+    {
+        "id": 5,
+        "nombre": "Banco De Energía Solar Portátil",
+        "precio": 50000,
+        "img": "https://images.pexels.com/photos/518530/pexels-photo-518530.jpeg?",
+        "cantidad": 1
+    },
+
+    {
+        "id": 6,
+        "nombre": "Banco De Energía Portátil",
+        "precio": 10000,
+        "img": "https://images.pexels.com/photos/3921718/pexels-photo-3921718.jpeg?",
+        "cantidad": 1
+    }
+]

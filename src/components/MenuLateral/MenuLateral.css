@@ -1,0 +1,50 @@
+/* Agregar la fuente de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+.sidebar {
+    position: fixed;
+    top: 0; /* Mantener el margen superior ajustado */
+    left: 0;
+    bottom: 0; /* Ajustar la parte inferior al final de la ventana */
+    width: 260px; /* Ancho reducido */
+    background-color: #333; /* Gris oscuro */
+    color: #f0f0f0; /* Texto color blanco grisáceo */
+    font-family: 'Roboto', sans-serif;
+    overflow-y: auto; /* Agregar scroll si el contenido es más largo que la altura */
+    z-index: 1;
+  }
+  
+  .sidebar-nav ul {
+    list-style: none;
+    padding: 20px;
+  }
+  
+  .sidebar-nav li {
+    margin-bottom: 16px;
+    margin-top: 25px;
+  }
+  
+  .sidebar-nav a {
+    text-decoration: none;
+    color: inherit; /* Heredar el color del padre */
+    transition: color 0.3s;
+    cursor: pointer; /* Cambiar el cursor a mano */
+    display: block; /* Asegurar el espacio completo para hacer clic */
+    padding: 8px; /* Espaciado uniforme para hacer clic */
+    font-weight: bold; /* Texto en negrita */
+    font-size: 14px; /* Tamaño de fuente ligeramente aumentado */
+  }
+  
+  .sidebar-nav a:hover {
+    color: #fff; /* Cambiar el color al pasar el cursor */
+    background-color: #555; /* Efecto de fondo al interactuar */
+    border-radius: 5px; /* Bordes redondeados al interactuar */
+  }
+  
+  /* Estilos responsivos */
+  @media (max-width: 768px) {
+    .sidebar {
+      width: 100%;
+      transition: none; /* Desactivar la transición en pantallas pequeñas */
+    }
+  }  
