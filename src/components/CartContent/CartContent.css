@@ -1,0 +1,32 @@
+.cartContent {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 100px;
+}
+
+.cartContent > img {
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+
+.cartTotal {
+    text-align: center;
+}
+
+.cart-message-center {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* estilos para el cambio de evento del cursor */
+.counter-button {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* estilos para el botón eliminar producto */
+.cart-delete-button {
+    cursor: pointer;
+}

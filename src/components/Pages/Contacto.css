@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  /* Estilos para el componente de Contacto */
+  .contacto-container {
+    background-color: #333;
+    color: #f0f0f0;
+    display: flex; /* Usar flexbox para centrar verticalmente */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    height: 100vh; /* Ocupar toda la altura visible */
+    text-align: justify; /* Justificar el contenido horizontalmente */
+    box-sizing: border-box; /* Incluir el padding en el tamaño total del contenedor */
+    flex-direction: column; /* Alinear elementos verticalmente */
+    padding: 20px; /* Espaciado interior */
+  }
+  
+  .contacto-container h1 {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .contacto-container p {
+    margin-bottom: 8px; /* Espacio inferior más pequeño entre párrafos */
+  }
+  
+  /* Estilos responsivos */
+  @media (max-width: 768px) {
+    .contacto-container {
+      font-size: 14px; /* Reducir el tamaño de fuente en pantallas pequeñas */
+    }
+  }
