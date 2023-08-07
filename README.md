@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+**Sobre "Proyecto Final: Misiotrónica".**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#El proyecto E-COMMERCE "Misiotrónica" realizado en "ReactJS" con integración de "Axios", "React Routers" y "Font Awesome" no solo cumple con los requisitos iniciales, tambien intenta satisfacer las peticiones solicitades, desde nivel lógico al visual, técnico y como usuario. Esta síntesis de tecnologías y diseño crea un ambiente que fomenta la exploración, del mismo cumpliendo con la mayor canitdad de items que se propusieron y exponerlos de la mejor forma demostrando lo aprendido a lo largo de la cursada junto con conocimeintos previos y externos a esta. Se hizo principal hincapié a demostrar los elementos que consideré más importantes en un sitio de este estilo, como las funcionalidades, el routeo entre sus unidades teniendo en cuenta el SPA, a comparación con el MPA, agregando funciones para la exploración del usuario, creando un logo personalizado para darle indentidad al cliente y pensando textos descriptivos para cada elemento dentro de sus componentes, del código y finalmente de lo que se va a ver al renderizar la web.
+En resumen, se ha tratado de cumplir todo pero haciendo priorizando lo que refleja más el espiritu de aprendizaje y evolución en el area de Front End y la aplicación de diferentes tecnologías y conceptos adquiridos.#
 
-## Available Scripts
+##Técnologías implementadas:##
+**REACTJS;**
+**AXIOS;**
+**FONTAWESOME;**
+**REACT ROUTERS.**
 
-In the project directory, you can run:
+--------------------------
 
-### `npm start`
+Aclaraciones:
+Por cuestiones personales, de tiempo e infraestructura, estructuré el sitio, de la forma más prolija y presentando todos los puntos posibles solicitados, queda en falta una barra de búsqueda, ya que no pude integrarla de manera correcta, lo mismo me sucedió con la parte de CSS, ya que la tenía sin errores, pero antes de subirla, se generaron varios problemas en el código de algunos, lo cual repercuten en su visionado, pero si van a poder observar, que la lógica en cada tipo de lenguaje, está y es lo que más énfasis traté de centrar, para que vean mi avance personal, si no he podido hacer nuevos commit y push, para solucionar los problemas de esta versión, son justamente, por lo antes mencionados, problemas en los cuales no puedo realizar dichos cambios, por ende, intentaré solucionar lo que vaya pudiendo, pero dudo mucho que pueda hacer mucho más.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desde yá muchbas gracias y espero que este, al menos a la altura de lo que esperan, más allá de los problemas ya mencionados.
