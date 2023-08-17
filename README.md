@@ -10,8 +10,3 @@ Técnologías implementadas:
 **REACT ROUTERS.**
 
 --------------------------
-
-Aclaraciones:
-Por cuestiones personales, de tiempo e infraestructura, estructuré el sitio, de la forma más prolija y presentando todos los puntos posibles solicitados, queda en falta una barra de búsqueda, ya que no pude integrarla de manera correcta, lo mismo me sucedió con la parte de CSS, ya que la tenía sin errores, pero antes de subirla, se generaron varios problemas en el código de algunos, lo cual repercuten en su visionado, pero si van a poder observar, que la lógica en cada tipo de lenguaje, está y es lo que más énfasis traté de centrar, para que vean mi avance personal, si no he podido hacer nuevos commit y push, para solucionar los problemas de esta versión, son justamente, por lo antes mencionados, problemas en los cuales no puedo realizar dichos cambios, por ende, intentaré solucionar lo que vaya pudiendo, pero dudo mucho que pueda hacer mucho más.
-
-Desde yá muchbas gracias y espero que este, al menos a la altura de lo que esperan, más allá de los problemas ya mencionados.
