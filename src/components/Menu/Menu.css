@@ -42,6 +42,7 @@ svg[data-icon="bars"] {
   font-size: 30px;
   margin-left: auto;
   margin-right: 10px;
+  color: rgb(215, 170, 233);
 }
 
 /* Media Query para diseño responsivo */
